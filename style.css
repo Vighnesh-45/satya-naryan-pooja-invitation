@@ -290,7 +290,7 @@ html[lang="kn"] body {
 @keyframes bellSway3 { 0% { transform: rotate(-3deg); } 100% { transform: rotate(3.5deg); } }
 @keyframes bellSway4 { 0% { transform: rotate(3.5deg); } 100% { transform: rotate(-3.5deg); } }
 
-/* Sacred Center Title & Lord Ganesha */
+/* Sacred Center Title & Sri Ganesha */
 .header-sacred-center {
   flex: 1;
   display: flex;

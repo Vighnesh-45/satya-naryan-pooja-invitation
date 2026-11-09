@@ -25,7 +25,7 @@ const T = {
   en: {
     pujaTitle: "॥ श्री सत्यनारायण पूजा ॥",
     hostLine: "Dhotre family cordially invites you to the sacred Satyanarayan Katha & Pooja",
-    p1: "With the blessings of Lord Satyanarayan, we cordially invite you and your family & friends to join us for the sacred Satyanarayan Katha & Pooja.",
+    p1: "With the blessings of Sri Satyanarayan, we cordially invite you and your family & friends to join us for the sacred Satyanarayan Katha & Pooja.",
     p2: "Your gracious presence will make this auspicious occasion even more special.",
     shubhNimantran: "शुभ निमंत्रण",
     invitedByTitle: "Invited by:",
